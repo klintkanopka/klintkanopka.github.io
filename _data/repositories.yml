@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - klintkanopka
 
 github_repos:
+  - intermodel-vigorish/imv_original
+  - intermodel-vigorish/imv-irt
+  - klintkanopka/managersreg
   - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
