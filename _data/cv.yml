@@ -4,27 +4,22 @@
     - name: Full Name
       value: Klint Kanopka
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD, Education
       institution: Stanford University 
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Developmental and Psychologigical Science
+        - Dissertation Title: Computational Validity
+    - title: MS, Computer Science
+      institution: Stanford University
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Artificial Intelligence 
 
 - title: Experience
   type: time_table
