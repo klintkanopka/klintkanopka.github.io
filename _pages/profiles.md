@@ -10,21 +10,18 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: generic_prof.jpeg
     content: about_ruiting_shen.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <i class="fa fa-envelope" aria-hidden="true"></i> [email@nyu.edu](mailto:email@nyu.edu)
-      <i class="fa-brands fa-github"></i>: [RuitingS81](https://github.com/RuitingS81/)
-      <i class="fa fa-linkedin-square" aria-hidden="true"></i>: [LinkedIn](https://www.linkedin.com/in/ruiting-shen-ab382a258/)
 
 
   - align: left
-    image: prof_pic.jpg
+    image: generic_prof.jpeg
     content: about_template.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <i class="fa fa-envelope" aria-hidden="true"></i> [email@nyu.edu](mailto:email@nyu.edu)
-      <i class="fa-brands fa-github"></i>: [username]()
-      <i class="fa fa-linkedin-square" aria-hidden="true"></i>: [LinkedIn]()
+      <i class="fa fa-envelope" aria-hidden="true"></i>: 
+      <i class="fa-brands fa-github"></i>: 
+      <i class="fa fa-linkedin-square" aria-hidden="true"></i>:
 ---
