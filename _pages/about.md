@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor of Applied Statistics, Department of [Applied Statistics, Social Science, and Humanities](https://steinhardt.nyu.edu/departments/applied-statistics-social-science-and-humanities) at [NYU Steinhardt](https://steinhardt.nyu.edu/)
 
 profile:
   align: right
@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Applied statistics in the department of [Applied Statistics, Social Science, and Humanities]() at [NYU Steinhardt](). My work centers around joining psychometric modeling with computational methods. In practice, this includes using process data to understand how respondents interact with computerized tests, modeling features (like item order) that may hamper the comparability of scores, and using natural language processing to make sense of respondent generated text. Research-wise, I'm also interested in applications of network methods and probabilistic graphical models to problems in measurement and the social sciences.
+My work centers around joining psychometric modeling with computational methods. In practice, this includes using process data to understand how respondents interact with computerized tests, modeling features (like item order) that may hamper the comparability of scores, and using natural language processing to make sense of respondent generated text. Research-wise, I'm also interested in applications of network methods and probabilistic graphical models to problems in measurement and the social sciences.
