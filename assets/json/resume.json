@@ -1,23 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Klint Kanopka",
+    "label": "Assistant Professor of Applied Statistics",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "klint.kanopka@nyu.edu",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://klintkanopka.com",
+    "summary": "Mostly a psychometrician, ",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "postalCode": "NY, 10003",
+      "city": "New York",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
+        "network": "X",
+        "username": "KlintKanopka",
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
@@ -151,12 +151,22 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "R",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Python",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "C",
       "fluency": "Fluent",
       "icon": ""
     }
