@@ -14,14 +14,16 @@ profiles:
     content: about_ruiting_shen.md
     image_circular: true # crops the image to make it circular
     more_info: >
-
+      <p><i class="fa-solid fa-envelope"></i>: html link
+      <p><i class="fa-brands fa-github"></i>: html link
+      <p><i class="fa-brands fa-linkedin"></i>: html link
 
   - align: left
     image: generic_prof.jpeg
     content: about_template.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <i class="fa fa-envelope" aria-hidden="true"></i>: 
-      <i class="fa-brands fa-github"></i>: 
-      <i class="fa fa-linkedin-square" aria-hidden="true"></i>:
+      <p><i class="fa-solid fa-envelope"></i>: html link
+      <p><i class="fa-brands fa-github"></i>: html link
+      <p><i class="fa-brands fa-linkedin"></i>: html link
 ---

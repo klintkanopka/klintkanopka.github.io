@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Item Response Warehouse
+description: The Item Response Warehouse (IRW) is a collection of open, harmonized item response datasets.
+img: assets/img/7.jpg
+redirect: https://itemresponsewarehouse.org/
+importance: 4
+category: current
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

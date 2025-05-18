@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: MCMC Short Forms
+description: A method for developing clinical use short forms with simulated annealing
+img:
+importance: 2
+category: current
 ---
 
 Every project has a beautiful feature showcase page.
