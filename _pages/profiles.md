@@ -21,10 +21,10 @@ profiles:
 
   - align: left
     image: prof_pic.jpg
-    content: about_ruiting.md
+    content: about_template.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <i class="fa fa-envelope" aria-hidden="true"></i> [email@nyu.edu](mailto:email@nyu.edu)
+      <i class="fa-brands fa-github"></i>: [username]()
+      <i class="fa fa-linkedin-square" aria-hidden="true"></i>: [LinkedIn]()
 ---
