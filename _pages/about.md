@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Klint Kanopka
+subtitle: Psychometrican, statistician, computational social scientist, and sandwich lover.
 
 profile:
   align: right

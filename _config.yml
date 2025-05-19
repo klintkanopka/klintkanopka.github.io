@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Klint
 last_name: Kanopka
 email: klint.kanopka@nyu.edu
-description: # the ">" symbol means to ignore newlines until "footer_text:"
+description: Psychometrician and sandwich lover # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: #
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -180,6 +180,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  courses:
+    output: true
+    permalink: /courses/:path/
 
 announcements:
   enabled: true
@@ -318,7 +321,7 @@ scholar:
   group_by: year
   group_order: descending
 
-# Display different badges withs stats for your publications
+# Display different badges with stats for your publications
 enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
@@ -411,8 +414,9 @@ enable_tooltips: false # enables automatic tooltip links generated for each sect
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
+enable_course_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
-enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar: false # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------
@@ -613,12 +617,4 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
-  - projects
-  - volunteer
   - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references

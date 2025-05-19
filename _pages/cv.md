@@ -2,10 +2,10 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
+nav: true
 nav_order: 2
 cv_pdf: kanopkacv.pdf
-description: You can download a complete version of my most recent CV in .pdf form here. 
+description: My complete CV is available as a .pdf download here
 toc:
   sidebar: left
 ---

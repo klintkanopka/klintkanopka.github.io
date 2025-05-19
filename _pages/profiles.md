@@ -5,25 +5,22 @@ title: people
 description: Current and past lab members
 nav: true 
 nav_order: 4
-
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
-    image: generic_prof.jpeg
+    title: Ruiting Shen
+    image: headshot_rs.png
     content: about_ruiting_shen.md
-    image_circular: true # crops the image to make it circular
+    image_circular: true 
     more_info: >
-      <p><i class="fa-solid fa-envelope"></i>: html link
-      <p><i class="fa-brands fa-github"></i>: html link
-      <p><i class="fa-brands fa-linkedin"></i>: html link
-
+      <a href="mailto:rs8422@nyu.edu"><i class="fa-solid fa-envelope fa-2xl"></i></a>
+      <a href="https://github.com/RuitingS81/"><i class="fa-brands fa-github fa-2xl"></i></a>
+      <a href="https://www.linkedin.com/in/ruiting-shen-ab382a258"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
   - align: left
     image: generic_prof.jpeg
     content: about_template.md
-    image_circular: true # crops the image to make it circular
+    image_circular: true 
     more_info: >
-      <p><i class="fa-solid fa-envelope"></i>: html link
-      <p><i class="fa-brands fa-github"></i>: html link
-      <p><i class="fa-brands fa-linkedin"></i>: html link
+      <a href="mailto:username@nyu.edu"><i class="fa-solid fa-envelope fa-2xl"></i></a>
+      <a href="https://github.com/username/"><i class="fa-brands fa-github fa-2xl"></i></a>
+      <a href="https://www.linkedin.com/in/firstname-lastname-stringofgarbage"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
 ---
