@@ -21,4 +21,6 @@ social: true # includes social icons at the bottom of the page
 
 I am an Assistant Professor of Applied Statistics in the department of [Applied Statistics, Social Science, and Humanities](https://steinhardt.nyu.edu/departments/applied-statistics-social-science-and-humanities) at [NYU Steinhardt](https://steinhardt.nyu.edu/). My work centers around joining psychometric modeling with computational methods. In practice, this includes using process data to understand how respondents interact with computerized tests, modeling features (like item order) that may hamper the comparability of scores, and using natural language processing to make sense of respondent generated text. Research-wise, I'm also interested in applications of network methods and probabilistic graphical models to problems in measurement and the social sciences.
 
-When I'm not working, I enjoy specialty coffee, games (collectible card, tabletop war, board, and video), and my dog Onions.
+When I'm not working, I enjoy traveling, trying new food, specialty coffee, games (collectible card, tabletop war, board, and video), and my dog Onions.
+
+You can obtain a copy of my most recent CV [here](assets/pdf/kanopkacv.pdf)

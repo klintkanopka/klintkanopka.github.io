@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Publication list is automatically generated from a BibTeX file. 
-nav: true
+nav: false
 nav_order: 5
 ---
 
