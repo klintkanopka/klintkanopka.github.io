@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://klintkanopka.github.io/sitemap.xml
+Sitemap: https://klintkanopka.com/sitemap.xml
