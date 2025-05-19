@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Klint
 last_name: Kanopka
 email: klint.kanopka@nyu.edu
-description: Psychometrician and sandwich lover # the ">" symbol means to ignore newlines until "footer_text:"
+description: Assistant Professor of Applied Statistics, NYU # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: #
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
