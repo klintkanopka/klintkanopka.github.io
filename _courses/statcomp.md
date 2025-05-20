@@ -14,4 +14,4 @@ This course will introduce the student to statistical programming and simulation
 This course is designed to treat R as a programming language. Programming skills are taught through the analysis, design, and implementation of algorithms, with special attention paid to modern statistical algorithms (e.g., gradient descent, k-Means clustering, Markov Chain Monte Carlo). Time will also be spent on optimization techniques (e.g., vectorization and parallelization) useful for statistical analysis. Everything done in this course will be implemented in base R. Notable exceptions include the use of the ggplot2 library for visualization and libraries like MASS for sampling from distributions. Students must implement algorithms, write unit tests, and debug from scratch using the tools available in R.
 
 
-- [Fall 2024 Syllabus](/assets/pdf/APSTA_GE_2352_F2425.pdf)
+- [Fall 2024 Syllabus](/assets/pdf/syllabi/APSTA_GE_2352_F2425.pdf)

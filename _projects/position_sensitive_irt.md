@@ -12,6 +12,6 @@ Standard item response theory (IRT) models are ill-equipped for when the probabi
 
 Materials:
 - [Publication in Journal of Educational and Behavioral Statistics](https://journals.sagepub.com/doi/full/10.3102/10769986241289399) {% cite kanopka2024position %}
-- [.pdf copy of the paper](/assets/pdf/kanopka-domingue-2024-psirt.pdf)
-- [Slides from a talk given to the Fordham Psychometrics Seminar](/assets/pdf/position_sensitive_slides.pdf)
+- [.pdf copy of the paper](/assets/pdf/papers/kanopka-domingue-2024-psirt.pdf)
+- [Slides from a talk given to the Fordham Psychometrics Seminar](/assets/pdf/slides/position_sensitive_slides.pdf)
 

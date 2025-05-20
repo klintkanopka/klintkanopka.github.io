@@ -1,0 +1,1 @@
+Victoria Zhang graduated from [A3SR](https://steinhardt.nyu.edu/degree/ms-applied-statistics-social-science-research) in Spring 2025. She worked on [MCMC Based Short Form Creation](/projects/mcmc_sa).

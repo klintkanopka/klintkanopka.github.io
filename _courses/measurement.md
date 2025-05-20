@@ -17,4 +17,4 @@ finite mixture, and diagnostic classification models are covered. The course foc
 on cross-sectional applications of measurement techniques, with examples
 drawn from education, psychology, and social science.
 
-- [Spring 2025 Syllabus](/assets/pdf/APSTA_GE_2094_S2425.pdf)
+- [Spring 2025 Syllabus](/assets/pdf/syllabi/APSTA_GE_2094_S2425.pdf)
