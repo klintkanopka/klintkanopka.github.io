@@ -1,0 +1,1 @@
+Sophia Deng graduated from [A3SR](https://steinhardt.nyu.edu/degree/ms-applied-statistics-social-science-research) in Spring 2025.

@@ -1,0 +1,1 @@
+Yuan Huang graduated from [A3SR](https://steinhardt.nyu.edu/degree/ms-applied-statistics-social-science-research) in Spring 2025. She worked on [LLM Responses to Social Surveys](/projects/gss_llm).
