@@ -14,7 +14,7 @@ profiles:
     more_info: >
       <a href="https://www.linkedin.com/in/ruiting-shen-ab382a258"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
       <a href="mailto:rs8422@nyu.edu"><i class="fa-solid fa-envelope fa-2xl"></i></a>
-      <a href="https://ruitingshen81.github.io/"><i class="fa-solid fa-house fa-2xl"></i></a>
+      <a href="https://ruitingshen.com/"><i class="fa-solid fa-house fa-2xl"></i></a>
       <a href="https://bsky.app/profile/ruitings.bsky.social"><i class="fa-brands fa-bluesky fa-2xl"></i></a>
       <a href="https://github.com/ruitingshen81/"><i class="fa-brands fa-github fa-2xl"></i></a>
       
