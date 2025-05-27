@@ -3,6 +3,46 @@ layout: page
 ---
 <div class="post">
   <article>
+  {% if page.display_categories and page.profiles %}
+  <!-- Display categorized people -->
+    {% for category in page.display_categories %}
+      
+      <a id="{{ category }}" href=".#{{ category }}">
+        <h2 class="category">{{ category }}</h2>
+      </a>
+
+      {% assign categorized_profiles = page.profiles | where: "category", category %}
+      {% assign sorted_profiles = categorized_profiles | sort: "importance" %}
+
+      {% for profile in sorted_profiles %}
+        <hr>
+        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+          {% if profile.image %}
+            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+            {% if profile.image_circular %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% else %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% endif %}
+            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+          {% endif %}
+          {% if profile.more_info %}
+            <div class="more-info">{{ profile.more_info }}</div>
+          {% endif %}
+        </div>
+
+        <div class="clearfix">
+          {% if profile.content %}
+            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+          {% else %}
+            {{ content }}
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endfor %}
+  {% else %}
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
@@ -32,5 +72,7 @@ layout: page
         </div>
       {% endfor %}
     {% endif %}
+  {% endif %}
+
   </article>
 </div>
