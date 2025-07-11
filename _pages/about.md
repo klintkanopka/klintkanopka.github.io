@@ -23,4 +23,4 @@ I am an Assistant Professor of Applied Statistics in the department of [Applied 
 
 When I'm not working, I enjoy traveling, trying new food, specialty coffee, games (collectible card, tabletop war, board, and video), and my dog Onions.
 
-My current CV is available for download [here](assets/pdf/kanopkacv.pdf).
+My current CV is available for download [here](https://klintkanopka.com/assets/pdf/kanopkacv.pdf).
