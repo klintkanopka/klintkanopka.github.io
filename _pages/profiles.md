@@ -31,8 +31,19 @@ profiles:
     more_info: >
       <a href="https://www.linkedin.com/in/jillian-pizza-61367b228"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
       <a href="mailto:jgp7855@nyu.edu"><i class="fa-solid fa-envelope fa-2xl"></i></a>
-      
+
   - align: right
+    category: past
+    importance: 1
+    name: Sophia Deng
+    image: headshots/headshot_sd.jpg
+    content: about_sophia_deng.md
+    image_circular: true 
+    more_info: >
+      <a href="https://sophiadeng.com"><i class="fa-solid fa-house fa-2xl"></i></a>
+      <a href="mailto:hisophiadeng@gmail.com"><i class="fa-solid fa-envelope fa-2xl"></i></a>
+
+  - align: left
     category: past
     importance: 1
     name: Yuan Huang
@@ -43,7 +54,7 @@ profiles:
       <a href="https://www.linkedin.com/in/yuan-huang-a0074821b"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
       <a href="mailto:yh2741@nyu.edu"><i class="fa-solid fa-envelope fa-2xl"></i></a>
 
-  - align: left
+  - align: right
     category: past
     importance: 1
     name: Yining Lu
@@ -55,7 +66,7 @@ profiles:
       <a href="mailto:Yining.Lu@colorado.edu"><i class="fa-solid fa-envelope fa-2xl"></i></a>
       <a href="https://github.com/LynnYiningLu/"><i class="fa-brands fa-github fa-2xl"></i></a>
 
-  - align: right
+  - align: left
     category: past
     importance: 1
     image: headshots/headshot_xz.jpg
