@@ -3,7 +3,7 @@ layout: page
 title: LLM Responses to Social Surveys
 description: Assessing the representativeness of LLM-generated item responses using latent class analysis
 img: assets/img/projects/gss_llm.png
-importance: 4
+importance: 5
 category: current
 related_publications: false
 ---

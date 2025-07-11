@@ -3,7 +3,7 @@ layout: page
 title: MCMC Based Short Form Creation
 description: A method for developing clinical use short forms using Markov Chain Monte Carlo with simulated annealing
 img: assets/img/projects/mcmc_sa.png
-importance: 2
+importance: 3
 category: current
 related_publications: false
 ---
