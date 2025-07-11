@@ -42,6 +42,7 @@ profiles:
     more_info: >
       <a href="https://sophiadeng.com"><i class="fa-solid fa-house fa-2xl"></i></a>
       <a href="mailto:hisophiadeng@gmail.com"><i class="fa-solid fa-envelope fa-2xl"></i></a>
+      <a href="https://github.com/sphdng"><i class="fa-brands fa-github fa-2xl"></i></a>
 
   - align: left
     category: past
