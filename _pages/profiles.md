@@ -11,8 +11,8 @@ profiles:
     category: current
     importance: 1
     name: Ruiting Shen
-    image: headshots/headshot_rs.png
-    content: about_ruiting_shen.md
+    image: headshots/headshot_rs.jpg
+    content: profiles/ruiting_shen.md
     image_circular: true 
     more_info: >
       <a href="https://www.linkedin.com/in/ruiting-shen-ab382a258"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
@@ -26,7 +26,7 @@ profiles:
     importance: 2
     name: Jillian Pizza
     image: headshots/headshot_jp.jpg
-    content: about_jillian_pizza.md
+    content: profiles/jillian_pizza.md
     image_circular: true 
     more_info: >
       <a href="https://www.linkedin.com/in/jillian-pizza-61367b228"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
@@ -37,7 +37,7 @@ profiles:
     importance: 1
     name: Sophia Deng
     image: headshots/headshot_sd.jpg
-    content: about_sophia_deng.md
+    content: profiles/sophia_deng.md
     image_circular: true 
     more_info: >
       <a href="https://sophiadeng.com"><i class="fa-solid fa-house fa-2xl"></i></a>
@@ -49,7 +49,7 @@ profiles:
     importance: 1
     name: Yuan Huang
     image: headshots/headshot_yh.jpg
-    content: about_yuan_huang.md
+    content: profiles/yuan_huang.md
     image_circular: true 
     more_info: >
       <a href="https://www.linkedin.com/in/yuan-huang-a0074821b"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
@@ -60,7 +60,7 @@ profiles:
     importance: 1
     name: Yining Lu
     image: headshots/headshot_yl.jpg
-    content: about_yining_lu.md
+    content: profiles/yining_lu.md
     image_circular: true 
     more_info: >
       <a href="https://www.linkedin.com/in/yining-lu-910534281"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
@@ -71,7 +71,7 @@ profiles:
     category: past
     importance: 1
     image: headshots/headshot_xz.jpg
-    content: about_victoria_zhang.md
+    content: profiles/victoria_zhang.md
     image_circular: true 
     more_info: >
       <a href="https://www.linkedin.com/in/victoria-zhang-ab3110148"><i class="fa-brands fa-linkedin fa-2xl"></i></a>

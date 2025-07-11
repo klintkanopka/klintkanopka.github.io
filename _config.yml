@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: fresh air cute # blog_name will be displayed in your blog page
+blog_name: fresh air cure # blog_name will be displayed in your blog page
 blog_description: an unused blog
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
