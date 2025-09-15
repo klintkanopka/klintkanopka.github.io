@@ -15,4 +15,4 @@ This course is designed to treat R as a programming language. Programming skills
 
 
 - [Fall 2025 Syllabus](/assets/pdf/syllabi/APSTA_GE_2352_F2526.pdf)
-- [Lecture Slides](https://klintkanopka.com/statcomp-slides/)
+- [Lecture Slides](https://klintkanopka.com/lecture-slides/)
