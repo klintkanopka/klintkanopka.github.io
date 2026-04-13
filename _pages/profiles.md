@@ -5,10 +5,10 @@ title: people
 description: Current and past lab members and associates
 nav: true
 nav_order: 3
-display_categories: [doctoral, masters, past]
+display_categories: [current, past]
 profiles:
   - align: right
-    category: masters
+    category: current
     importance: 1
     name: Ruiting Shen
     image: headshots/headshot_rs.jpg
@@ -22,7 +22,7 @@ profiles:
       <a href="https://github.com/ruitingshen81/"><i class="fa-brands fa-github fa-2xl"></i></a>
 
   - align: left
-    category: masters
+    category: current
     importance: 2
     name: Jillian Pizza
     image: headshots/headshot_jp.jpg
