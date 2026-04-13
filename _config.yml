@@ -13,7 +13,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🫘 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://klintkanopka.com # the base hostname & protocol for your site
-baseurl: 
+baseurl:
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: false # set to false to disable the back to top button
@@ -44,7 +44,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false 
+search_enabled: false
 socials_in_search: true
 
 # Dimensions
@@ -340,6 +340,7 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
+    doi,
     html,
     pdf,
     poster,
