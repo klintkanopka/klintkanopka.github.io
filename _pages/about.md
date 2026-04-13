@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Psychometrican, statistician, computational social scientist, and sandwich lover.
+subtitle: Psychometrican, statistician, and sandwich lover.
 
 profile:
   align: right
