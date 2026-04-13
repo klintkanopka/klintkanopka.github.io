@@ -304,7 +304,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: refs.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -330,26 +330,10 @@ enable_publication_badges:
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
   [
-    abbr,
-    abstract,
-    additional_info,
-    altmetric,
-    arxiv,
-    award,
-    award_name,
-    bibtex_show,
-    blog,
-    code,
-    doi,
-    html,
-    pdf,
-    poster,
-    preview,
-    selected,
-    slides,
-    supp,
-    video,
-    website,
+    brief,
+    conftalk,
+    invtalk,
+    software,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
