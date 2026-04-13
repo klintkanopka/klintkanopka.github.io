@@ -5,7 +5,7 @@ permalink: /projects/
 description: Current and past lab projects
 nav: true
 nav_order: 3
-display_categories: [current, past]
+display_categories: [current, software, past]
 horizontal: false
 ---
 
