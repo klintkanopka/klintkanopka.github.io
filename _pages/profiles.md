@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: Current and past lab members and associates
 nav: true
-nav_order: 4
+nav_order: 3
 display_categories: [doctoral, masters, past]
 profiles:
   - align: right

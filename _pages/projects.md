@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Current and past lab projects
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [current, software, past]
 horizontal: false
 ---
