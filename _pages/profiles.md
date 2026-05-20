@@ -8,7 +8,7 @@ nav_order: 3
 display_categories: [current, past]
 profiles:
   - align: right
-    category: current
+    category: past
     importance: 1
     name: Ruiting Shen
     image: headshots/headshot_rs.jpg
@@ -22,7 +22,7 @@ profiles:
       <a href="https://github.com/ruitingshen81/"><i class="fa-brands fa-github fa-2xl"></i></a>
 
   - align: left
-    category: current
+    category: past
     importance: 2
     name: Jillian Pizza
     image: headshots/headshot_jp.jpg
@@ -34,7 +34,7 @@ profiles:
 
   - align: right
     category: past
-    importance: 1
+    importance: 3
     name: Sophia Deng
     image: headshots/headshot_sd.jpg
     content: profiles/sophia_deng.md
@@ -46,7 +46,7 @@ profiles:
 
   - align: left
     category: past
-    importance: 1
+    importance: 3
     name: Yuan Huang
     image: headshots/headshot_yh.jpg
     content: profiles/yuan_huang.md
@@ -57,7 +57,7 @@ profiles:
 
   - align: right
     category: past
-    importance: 1
+    importance: 3
     name: Yining Lu
     image: headshots/headshot_yl.jpg
     content: profiles/yining_lu.md
@@ -69,7 +69,7 @@ profiles:
 
   - align: left
     category: past
-    importance: 1
+    importance: 3
     image: headshots/headshot_xz.jpg
     content: profiles/victoria_zhang.md
     image_circular: true
