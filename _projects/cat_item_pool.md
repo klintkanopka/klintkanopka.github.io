@@ -3,7 +3,7 @@ layout: page
 title: CAT Item Pools
 description: A network-based approach to item pool maintenance in computer adaptive tests
 img: assets/img/projects/cat_pool.png
-importance: 4
+importance: 5
 category: current
 related_publications: false
 ---

@@ -2,13 +2,37 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Current and past lab members and associates
+description: Current lab members and alumni
 nav: true
 nav_order: 3
-display_categories: [current, past]
+display_categories: [doctoral, alumni]
 profiles:
   - align: right
-    category: past
+    category: doctoral
+    importance: 1
+    name: George Perrett
+    image: headshots/headshot_gp.png
+    content: profiles/george_perrett.md
+    image_circular: true
+    more_info: >
+      <a href="https://www.linkedin.com/in/george-perrett-629272a8"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
+      <a href="mailto:gp77@nyu.edu"><i class="fa-solid fa-envelope fa-2xl"></i></a>
+      <a href="https://steinhardt.nyu.edu/degree/phd-statistics-and-computational-social-science/student-experience/george-perrett"><i class="fa-solid fa-house fa-2xl"></i></a>
+      <a href="https://github.com/gperrett/"><i class="fa-brands fa-github fa-2xl"></i></a>
+
+  - align: left
+    category: doctoral
+    importance: 2
+    name: Aysegul Gunduz
+    image: headshots/headshot_ag.png
+    content: profiles/aysegul_gunduz.md
+    image_circular: true
+    more_info: >
+      <a href="https://www.linkedin.com/in/aysegullgunduzz"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
+      <a href="mailto:aysegulgunduz017@gmail.com"><i class="fa-solid fa-envelope fa-2xl"></i></a>
+
+  - align: right
+    category: alumni
     importance: 1
     name: Ruiting Shen
     image: headshots/headshot_rs.jpg
@@ -22,7 +46,7 @@ profiles:
       <a href="https://github.com/ruitingshen81/"><i class="fa-brands fa-github fa-2xl"></i></a>
 
   - align: left
-    category: past
+    category: alumni
     importance: 2
     name: Jillian Pizza
     image: headshots/headshot_jp.jpg
@@ -33,7 +57,7 @@ profiles:
       <a href="mailto:jgp7855@nyu.edu"><i class="fa-solid fa-envelope fa-2xl"></i></a>
 
   - align: right
-    category: past
+    category: alumni
     importance: 3
     name: Sophia Deng
     image: headshots/headshot_sd.jpg
@@ -45,7 +69,7 @@ profiles:
       <a href="https://github.com/sphdng"><i class="fa-brands fa-github fa-2xl"></i></a>
 
   - align: left
-    category: past
+    category: alumni
     importance: 3
     name: Yuan Huang
     image: headshots/headshot_yh.jpg
@@ -56,7 +80,7 @@ profiles:
       <a href="mailto:yh2741@nyu.edu"><i class="fa-solid fa-envelope fa-2xl"></i></a>
 
   - align: right
-    category: past
+    category: alumni
     importance: 3
     name: Yining Lu
     image: headshots/headshot_yl.jpg
@@ -68,7 +92,7 @@ profiles:
       <a href="https://github.com/LynnYiningLu/"><i class="fa-brands fa-github fa-2xl"></i></a>
 
   - align: left
-    category: past
+    category: alumni
     importance: 3
     image: headshots/headshot_xz.jpg
     content: profiles/victoria_zhang.md

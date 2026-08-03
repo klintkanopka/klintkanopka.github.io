@@ -3,7 +3,7 @@ layout: page
 title: Process Data
 description: Understanding test-taker response styles and how they evolve over the course of an assessment
 img: assets/img/projects/process_data.png
-importance: 2
+importance: 6
 category: current
 related_publications: false
 ---
