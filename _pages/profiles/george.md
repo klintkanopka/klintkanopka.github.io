@@ -1,1 +1,0 @@
-This is a template for a generic student lab member. They should write things.

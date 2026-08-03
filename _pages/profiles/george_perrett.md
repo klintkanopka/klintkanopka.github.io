@@ -1,0 +1,1 @@
+George Perrett is a second year doctoral student in the SCSS program at NYU. His research interests are the intersection of causal inference, measurement, and computational Bayesian methods. He applies his methodological work to applied problems in sports analytics, education and AI policy.
